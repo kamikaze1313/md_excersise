@@ -7,5 +7,7 @@
 * Utworzyć konto github
 
 [link do WSEI](https://dl.wsei.lublin.pl)
+
 _tekst pochyły_
-*tekst pogrubiony*
+
+**tekst pogrubiony**
