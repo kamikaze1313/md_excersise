@@ -6,8 +6,8 @@
 3. Zrobić NWiki
 4. Utworzyć konto github
 
-### [link do WSEI](https://dl.wsei.lublin.pl)
-
 * _tekst pochyły_
 
 * **tekst pogrubiony**
+
+### [link do WSEI](https://dl.wsei.lublin.pl)
