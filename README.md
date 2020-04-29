@@ -1,5 +1,5 @@
 # Student Jarek
-Ćwiczenie z markdown
+**Ćwiczenie z markdown**
 ## Zadania
 1. Zapoznać się z Atomem
 2. Nauczyć się markdown
