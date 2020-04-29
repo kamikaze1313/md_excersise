@@ -1,4 +1,4 @@
-# md_excersise
+# Student Jarek
 Ćwiczenie z markdown
 ## Zadania
 * Zapoznać się z Atomem
@@ -8,6 +8,6 @@
 
 [link do WSEI](https://dl.wsei.lublin.pl)
 
-_tekst pochyły_
+=_tekst pochyły_
 
-**tekst pogrubiony**
+==**tekst pogrubiony**
